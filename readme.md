@@ -1,3 +1,3 @@
 ## Swagger UI Simple Example
 
-![sample](./swagger.png)
+![sample](./swagger.PNG)
